@@ -1,0 +1,12 @@
+---- Contract ----
+
+Market(perm) : 0xDdc3c94eC1C98c5b3eb1bfa5Bb75294D0C436875
+MarketFactory : 0x49b2e59E43C68DE396fD1EbEDEe98Ce0e45a21E8
+
+Deposit Token : 0x481A61fB7c9EAdDD5069Fe2F6134b22AB8EE6489
+
+---- Account ----
+
+address deployAddress = address(0x5803CdB747e1552Be21C5FCa63228aA3D2622873);
+address depositAddress = address(0x34501EE677d8180522730e78C213Fec1b53Be5F0);
+address borrowAddress = address(0x67Db9a858c35Ea0061A9fECaFC19A6a4b302A227);
